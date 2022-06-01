@@ -5,3 +5,6 @@ Salty-Gamingclub
 ##
 ### Backend
 Echo
+##
+### Custom Style Library
+FrozeniusLib
